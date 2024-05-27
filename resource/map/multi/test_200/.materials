@@ -1,0 +1,18 @@
+{materials
+	{"mtl0"
+		{layer bump
+			{diffuse "/texture/land/goh_autumn/aut_grass2"}
+			{bump "/texture/land/goh_autumn/aut_grass2_nm"}
+			{specular "/texture/land/goh_autumn/aut_grass2_sp"}
+			{height "/texture/land/goh_autumn/aut_grass2_hm"}
+			{parallax_scale 1}
+		}
+		{layer bump
+			{diffuse "/texture/land/goh_autumn/aut_grass3"}
+			{bump "/texture/land/goh_autumn/aut_grass3_nm"}
+			{specular "/texture/land/goh_autumn/aut_grass3_sp"}
+			{height "/texture/land/goh_autumn/aut_grass3_hm"}
+			{parallax_scale 1}
+		}
+	}
+}

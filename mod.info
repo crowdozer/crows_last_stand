@@ -1,0 +1,7 @@
+{mod
+	{name "crowdozer"}
+	{tags "mod, models, sound"}
+	{desc "Crowdozer"}
+	{minGameVersion "1.029"}
+	{maxGameVersion "1.910"}
+}
